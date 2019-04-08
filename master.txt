@@ -1,2 +1,2 @@
-PASSWD='master'
+password='master'
 masterbrench
