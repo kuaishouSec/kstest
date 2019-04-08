@@ -1,2 +1,2 @@
-password='branche1'
+PASSWD='branche1'
 branch1
