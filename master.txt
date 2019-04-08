@@ -1,2 +1,2 @@
-ssh
+password='branche1'
 branch1
