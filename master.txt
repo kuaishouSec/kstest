@@ -1,3 +1,0 @@
-username='branche1'
-password='branche1'
-branch1
